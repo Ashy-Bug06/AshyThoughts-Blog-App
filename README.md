@@ -49,7 +49,7 @@ The project has a clean and responsive interface for managing personal blog post
 ---
 
 ## Folder Structure
-
+```
 AshyThoughts-Blog App/
 │
 ├── backend/
@@ -88,7 +88,7 @@ AshyThoughts-Blog App/
 │
 ├── start.bat
 └── README.md
-
+```
 
 
 ## Installation
