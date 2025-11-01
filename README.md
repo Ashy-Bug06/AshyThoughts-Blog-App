@@ -50,7 +50,45 @@ The project has a clean and responsive interface for managing personal blog post
 
 ## Folder Structure
 
-<pre> AshyThoughts-Blog App/ │ ├── backend/ │ ├── controllers/ │ │ └── postsController.js │ ├── routes/ │ │ └── posts.js │ ├── db/ │ │ └── connect.js │ ├── models/ │ │ └── postModel.sql │ ├── utils/ │ │ └── csvExport.js │ ├── server.js │ └── .env │ ├── frontend/ │ ├── public/ │ ├── src/ │ │ ├── pages/ │ │ │ ├── ShareThought.js │ │ │ └── ReadThoughts.js │ │ ├── App.js │ │ ├── api.js │ │ └── index.js │ ├── package.json │ ├── package-lock.json │ ├── .env │ └── .gitignore │ ├── screenshots/ │ ├── home.png │ ├── share-thought.png │ ├── csv-export.png │ └── no-thoughts.png │ ├── start.bat └── README.md </pre>
+AshyThoughts-Blog App/
+│
+├── backend/
+│ ├── controllers/
+│ │ └── postsController.js
+│ ├── routes/
+│ │ └── posts.js
+│ ├── db/
+│ │ └── connect.js
+│ ├── models/
+│ │ └── postModel.sql
+│ ├── utils/
+│ │ └── csvExport.js
+│ ├── server.js
+│ └── .env
+│
+├── frontend/
+│ ├── public/
+│ ├── src/
+│ │ ├── pages/
+│ │ │ ├── ShareThought.js
+│ │ │ └── ReadThoughts.js
+│ │ ├── App.js
+│ │ ├── api.js
+│ │ └── index.js
+│ ├── package.json
+│ ├── package-lock.json
+│ ├── .env
+│ └── .gitignore
+│
+├── screenshots/
+│ ├── home.png
+│ ├── share-thought.png
+│ ├── csv-export.png
+│ └── no-thoughts.png
+│
+├── start.bat
+└── README.md
+
 
 
 ## Installation
