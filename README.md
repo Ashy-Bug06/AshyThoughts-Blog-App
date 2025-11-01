@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ashy Thoughts Blog App
 
 Ashy Thoughts is a full-stack blog platform developed using React.js, Node.js, and MySQL.  
@@ -181,3 +182,7 @@ Node.js and Express.js community
 MySQL developers and resources
 
 json2csv library for export functionality
+=======
+# AshyThoughts-Blog-App
+A full-stack blog platform built with React, Node.js, and MySQL — where thoughts bloom into words. Users can create, read, update, delete, and export blogs as CSV files.
+>>>>>>> 9bc54dc57281944878a803b7c37d3637062ee17c
