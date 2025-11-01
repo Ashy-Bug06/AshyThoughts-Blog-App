@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ashy Thoughts Blog App
 
 Ashy Thoughts is a full-stack blog platform developed using React.js, Node.js, and MySQL.  
@@ -51,34 +50,7 @@ The project has a clean and responsive interface for managing personal blog post
 
 ## Folder Structure
 
-AshyThoughts-Blog App/
-│
-├── backend/
-│ ├── controllers/
-│ ├── routes/
-│ ├── db/
-│ ├── models/
-│ ├── utils/
-│ ├── server.js
-│ └── .env
-│
-├── frontend/
-│ ├── src/
-│ │ ├── pages/
-│ │ ├── api.js
-│ │ └── App.js
-│ ├── .env
-│ └── package.json
-│
-├── screenshots/
-│ ├── screenshot-home.png
-│ ├── screenshot-create.png
-│ ├── screenshot-edit.png
-│ ├── screenshot-delete.png
-│ └── screenshot-export.png
-│
-├── start.bat
-└── README.md
+<pre> AshyThoughts-Blog App/ │ ├── backend/ │ ├── controllers/ │ │ └── postsController.js │ ├── routes/ │ │ └── posts.js │ ├── db/ │ │ └── connect.js │ ├── models/ │ │ └── postModel.sql │ ├── utils/ │ │ └── csvExport.js │ ├── server.js │ └── .env │ ├── frontend/ │ ├── public/ │ ├── src/ │ │ ├── pages/ │ │ │ ├── ShareThought.js │ │ │ └── ReadThoughts.js │ │ ├── App.js │ │ ├── api.js │ │ └── index.js │ ├── package.json │ ├── package-lock.json │ ├── .env │ └── .gitignore │ ├── screenshots/ │ ├── home.png │ ├── share-thought.png │ ├── csv-export.png │ └── no-thoughts.png │ ├── start.bat └── README.md </pre>
 
 
 ## Installation
