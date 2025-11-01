@@ -67,15 +67,19 @@ AshyThoughts-Blog App/
 │ │ ├── pages/
 │ │ ├── api.js
 │ │ └── App.js
-│ └── .env
+│ ├── .env
+│ └── package.json
+│
+├── screenshots/
+│ ├── screenshot-home.png
+│ ├── screenshot-create.png
+│ ├── screenshot-edit.png
+│ ├── screenshot-delete.png
+│ └── screenshot-export.png
 │
 ├── start.bat
 └── README.md
 
-yaml
-Copy code
-
----
 
 ## Installation
 
